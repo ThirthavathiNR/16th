@@ -36,3 +36,4 @@ jobs:
         run: curl http://localhost:8080
       - name: get httpd
         run: curl http://localhost:8081
+        
